@@ -10,6 +10,6 @@ More to come soon!
 License
 =======
 
-Use this software at your own risk.
+Use this software any way you like, but at your own risk.
 
 *In other words, as long as you don't blame me for anything, you can do whatever you want with it.*
